@@ -1,0 +1,33 @@
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+.heading
+{
+font-size: 27px;
+width: 100%;
+margin: 0px;
+background-color: turquoise;
+color: tomato;
+}
+
+#status
+{
+font-size: 18px;
+background-color: thistle;
+}
+
+canvas
+{
+    box-shadow: 20px 20px 40px blue;
+    border-radius: 10px;
+}
+
+#detected_object
+{
+    background-color: violet;
+    font-size: 20px;
+    color: turquoise;
+    font-weight: 500;
+}
